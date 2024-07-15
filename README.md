@@ -21,13 +21,15 @@ The Simon Game Challenge is a web-based memory game where players must follow an
 
 - Web browser (e.g., Chrome, Firefox)
 - Code editor (e.g., VS Code)
-- 
+  
 #### Steps
 
 - Clone the repository:
+  
               git clone https://github.com/noor2560/Simon-Game-Challenge.git
   
 - Navigate to the project directory:
+  
               cd Simon-Game-Challenge
   
 #### Usage
